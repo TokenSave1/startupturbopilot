@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>StartupTurboPilot – Vollautomatisiertes KI-Business</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Starte dein Online-Business mit KI!</h1>
+  <p>Vollautomatisiert, skalierbar und sofort bereit für deinen Cashflow.</p>
+  
+  <!-- KI Agent Button -->
+  <a href="https://chatgpt.com/g/g-iYSeH3EAI-website-generator?q=%F0%9F%9B%A0+Build+and+host+a+website#14d78ae037ad604610dd1e14f5cf9c08d3e46bee742ce397cdbeb96d4b979182cf9cf03e04dbfea3f2dedf1bfefe5cdc23a1eeb24dfeea79426b3192283caaaf"
+   target="_blank"
+   style="display:inline-block;padding:14px 28px;background:#6c47ff;color:#fff;font-size:18px;border-radius:6px;text-decoration:none;font-weight:600;box-shadow:0 2px 8px rgba(0,0,0,0.12);margin:20px 0;">
+   Mit KI eigene Website generieren!
+  </a>
+
+  <!-- Zahlungsbuttons -->
+  <h2>Unsere Pakete:</h2>
+  <div>
+    <a href="https://buy.stripe.com/7sYeVccFiedwe2G2CF0RG04"
+      target="_blank"
+      style="display:inline-block;padding:10px 20px;background:#23bb4a;color:#fff;font-size:16px;border-radius:4px;text-decoration:none;margin-right:20px;">
+      Monatliches Abo für 19€
+    </a>
+    <a href="https://buy.stripe.com/cNi00iaxa5H02jY0ux0RG05"
+      target="_blank"
+      style="display:inline-block;padding:10px 20px;background:#ffb347;color:#fff;font-size:16px;border-radius:4px;text-decoration:none;">
+      Ganzjährliches Abo für 428€
+    </a>
+  </div>
+
+  <!-- Newsletter-Anbindung -->
+  <h3>Newsletter</h3>
+  <form action="DEIN_MAILCHIMP_ODER_BREVO_FORMULAR_LINK" method="post">
+    <input type="email" name="EMAIL" placeholder="Deine E-Mail" required>
+    <button type="submit">Anmelden</button>
+  </form>
+
+  <!-- Social Media Bot Hinweis -->
+  <p style="margin-top:30px;color:#888;">Automatisierte Social-Media-Postings und globale Übersetzungen inklusive!</p>
+</body>
+</html>
